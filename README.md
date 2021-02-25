@@ -42,9 +42,5 @@ Teaching and learning materials together.
 </p>
 
 <p>
-<img src="
-
-https://media.vlpt.us/images/dadumvu/post/06ca70c7-f1f8-4c61-b6d8-48f5e9049b6f/algo.jpg
-
-" alt="foo bar" title="train &amp; tracks" />
+<img src="https://media.vlpt.us/images/dadumvu/post/06ca70c7-f1f8-4c61-b6d8-48f5e9049b6f/algo.jpg" alt="foo bar" title="train &amp; tracks" />
 </p>
