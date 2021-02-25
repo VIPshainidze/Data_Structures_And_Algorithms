@@ -39,10 +39,6 @@ Teaching and learning materials together.
   </a></font>
 
 <p>
-<img src="https://c0.klipartz.com/pngpicture/239/580/gratis-png-estructuras-de-datos-para-principiantes-algoritmo-odontologia-complejidad-del-tiempo-fractales.png" alt="foo bar" title="train &amp; tracks" />
-</p>
-
-<p>
 <img src="https://miro.medium.com/max/2550/1*kiUNXcnWEYg7wRI9qeFX_A.png" alt="foo bar" title="train &amp; tracks" />
 </p>
 
