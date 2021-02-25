@@ -1,5 +1,8 @@
-**# Data_Structures_And_Algorithms
-Teaching and learning materials together.**
+# Data_Structures_And_Algorithms
+Teaching and learning materials together.
+<p>
+  <h1>ok </h1>
+</p>
 
 ქართული, საინფორმაციო ტექნოლოგიებითა და კომპიუტერული მეცნიერებებით დაინტერესებულთა Discord სერვერი:
 <font color="green"><a href="https://discord.gg/tsTm3NX" class="link-success">
