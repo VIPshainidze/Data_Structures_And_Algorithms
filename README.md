@@ -1,5 +1,5 @@
 # Data_Structures_And_Algorithms
-![#FF0000](Teaching and learning materials together.)
+![#FF0000]Teaching and learning materials together.
 
 ქართული, საინფორმაციო ტექნოლოგიებითა და კომპიუტერული მეცნიერებებით დაინტერესებულთა Discord სერვერი:
 <font color="green"><a href="https://discord.gg/tsTm3NX" class="link-success">
@@ -38,14 +38,5 @@
 ```
   </a></font>
 <p>
-<img style"$theme-colors: (
-  "primary":    $primary,
-  "secondary":  $secondary,
-  "success":    $success,
-  "info":       $info,
-  "warning":    $warning,
-  "danger":     $danger,
-  "light":      $light,
-  "dark":       $dark
-);" src="https://thumb.tildacdn.com/tild3762-3734-4166-a163-386665373666/-/resize/577x/-/format/webp/_1.png" alt="foo bar" title="train &amp; tracks" />
+<img src="https://thumb.tildacdn.com/tild3762-3734-4166-a163-386665373666/-/resize/577x/-/format/webp/_1.png" alt="foo bar" title="train &amp; tracks" />
 </p>
