@@ -6,7 +6,7 @@ Teaching and learning materials together.
   ```diff
 + IT GEORGIA
 
-! [💎]  Algorithms & Ds
+@@ [💎]  Algorithms & Ds @@
 ```
   
   </a></font>
