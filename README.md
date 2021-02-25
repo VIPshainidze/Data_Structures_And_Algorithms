@@ -41,4 +41,5 @@ Teaching and learning materials together.
 <img src="https://thumb.tildacdn.com/tild3762-3734-4166-a163-386665373666/-/resize/577x/-/format/webp/_1.png" alt="foo bar" title="train &amp; tracks" />
 </p>
 
-<a href="https://pngio.com/images/png-a1342287.html" target="_blank">What is an Array in Programming</a>
+
+<img src="https://img.pngio.com/what-is-an-array-in-programming-data-structure-png-350_250.png" alt="What is an Array in Programming">
