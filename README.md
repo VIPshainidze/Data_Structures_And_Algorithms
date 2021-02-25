@@ -8,3 +8,6 @@ https://discord.gg/tsTm3NX
 
 
 ![MAIN PICTURE](https://thumb.tildacdn.com/tild3762-3734-4166-a163-386665373666/-/resize/577x/-/format/webp/_1.png)
+
+
+<head><meta name="viewport" content="width=device-width, minimum-scale=0.1"><title>_1.png (577×733)</title></head>
