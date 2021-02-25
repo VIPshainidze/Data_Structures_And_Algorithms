@@ -9,7 +9,7 @@ Teaching and learning materials together.
 - text in red
 + text in green
 ! text in orange
-# text in gray
+# text in gray <a href="https://discord.gg/tsTm3NX" class="link-success">IT GEORGIA</a>
 @@ text in purple (and bold)@@
 ```
 
