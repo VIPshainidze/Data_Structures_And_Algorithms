@@ -42,4 +42,4 @@ Teaching and learning materials together.
 </p>
 
 
-<img src="https://img.pngio.com/what-is-an-array-in-programming-data-structure-png-350_250.png" alt="What is an Array in Programming">
+<img src="https://miro.medium.com/max/2550/1*kiUNXcnWEYg7wRI9qeFX_A.png" alt="What is an Array in Programming">
