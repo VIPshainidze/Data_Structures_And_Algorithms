@@ -42,7 +42,5 @@ Teaching and learning materials together.
 </p>
 
 <p>
-<img src="
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngio.com%2FPNG%2Fa74802-data-structure-png.html&psig=AOvVaw2rOzwwGEwhsNUymL6QuDfT&ust=1614334341579000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCOCU65vmhO8CFQAAAAAdAAAAABBC
-" alt="foo bar" title="train &amp; tracks" />
+<img src="https://img.pngio.com/big-data-png-download-1600900-free-transparent-data-data-structure-png-900_520.jpg" alt="foo bar" title="train &amp; tracks" />
 </p>
