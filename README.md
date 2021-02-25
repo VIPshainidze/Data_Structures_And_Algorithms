@@ -37,6 +37,11 @@ Teaching and learning materials together.
 @@ 📈⚛ფიზიკა-მათემატიკა⚛📉 @@
 ```
   </a></font>
-<img src="https://thumb.tildacdn.com/tild3762-3734-4166-a163-386665373666/-/resize/577x/-/format/webp/_1.png" class="rounded mx-auto d-block" alt="...">
+
+
+<div class="text-center">
+  <img src="https://thumb.tildacdn.com/tild3762-3734-4166-a163-386665373666/-/resize/577x/-/format/webp/_1.png" class="rounded" alt="...">
+</div>
+
 
 ![MAIN PICTURE](https://thumb.tildacdn.com/tild3762-3734-4166-a163-386665373666/-/resize/577x/-/format/webp/_1.png)
