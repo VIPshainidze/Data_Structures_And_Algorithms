@@ -7,8 +7,35 @@ Teaching and learning materials together.
 + IT GEORGIA @
 
 @@ [💎]  Algorithms & Ds @@
+
+@@ [🐧]  LINUX @@
+
+@@ [💻]  კიბერუსაფრთხოება @@
+
+@@ [🐍]  PYTHON @@
+
+@@ [☕]  JAVA @@
+
+@@ [⚡]  C / C++ @@
+
+@@ [🔥]  C# @@
+
+@@ [🌟]  JAVASCRIPT @@
+
+@@ [🐘]  PHP @@
+
+@@ [💃]  HTML/CSS @@
+
+@@ [🌆]  გრაფიკული დიზაინი @@
+
+@@ [💭]  DB & CLOUDS @@
+
+@@ [🌐]  ქსელები @@
+
+@@ [🖥]  კომპ_არქიტექტურა @@
+
+@@ 📈⚛ფიზიკა-მათემატიკა⚛📉 @@
 ```
-  
   </a></font>
 
 
