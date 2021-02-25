@@ -37,9 +37,6 @@ Teaching and learning materials together.
 @@ 📈⚛ფიზიკა-მათემატიკა⚛📉 @@
 ```
   </a></font>
-<p>
-<img src="https://thumb.tildacdn.com/tild3762-3734-4166-a163-386665373666/-/resize/577x/-/format/webp/_1.png" alt="foo bar" title="train &amp; tracks" />
-</p>
 
 <p>
 <img src="https://miro.medium.com/max/2550/1*kiUNXcnWEYg7wRI9qeFX_A.png" alt="foo bar" title="train &amp; tracks" />
