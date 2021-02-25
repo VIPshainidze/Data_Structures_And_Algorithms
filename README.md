@@ -1,10 +1,10 @@
 # Data_Structures_And_Algorithms
 <p>
-  <h1>Teaching and learning materials together.</h1>
+  <h2>Teaching and learning materials together.</h2>
 </p>
 
 <p>
-  <h2>ქართული, საინფორმაციო ტექნოლოგიებითა და კომპიუტერული მეცნიერებებით დაინტერესებულთა Discord სერვერი:</h2>
+  <h3>ქართული, საინფორმაციო ტექნოლოგიებითა და კომპიუტერული მეცნიერებებით დაინტერესებულთა Discord სერვერი:</h3>
 </p>
 
 <font color="green"><a href="https://discord.gg/tsTm3NX" class="link-success">
