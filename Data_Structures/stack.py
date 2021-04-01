@@ -1,4 +1,3 @@
-```
 from array import array
 
 
@@ -71,4 +70,3 @@ if __name__ == '__main__':
     listed_stack.append(123)
     print(listed_stack)
     
-```
